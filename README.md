@@ -4,7 +4,7 @@ These pages provide some information about the [Snapdragon Flight™](https://de
 
 ## Table of Contents
 
-1. [Getting Started](GettingStarted.md)
+1. [Getting Started](PlatformGettingStarted.md)
 1. [Snapdragon Flight User Guide](UserGuide.md)
 1. CPU / Applications Processor Development
    1. [Getting Started (and Hello World)](AppsGettingStarted.md)
